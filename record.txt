@@ -1,2 +1,3 @@
 strip: 删除开头或结尾的字符 str.strip('chars')
 split: 通过指定分隔符对字符串进行分片 str.split('chars')
+replace: 把字符串中的旧字符串替换成新字符串 str.replace('old','new')
