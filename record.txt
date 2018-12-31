@@ -1,1 +1,2 @@
-strip: 删除开头或结尾的字符 strip('chars')
+strip: 删除开头或结尾的字符 str.strip('chars')
+split: 通过指定分隔符对字符串进行分片 str.split('chars')
