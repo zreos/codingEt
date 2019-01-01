@@ -21,3 +21,18 @@ for i in frange(10,20,0.5):
       
       
 items 是字典函数(dict.items),以列表方式返回元组数组
+
+
+lambda表达式
+使用函数定义:
+def func(x,y):
+    return x+y
+sum = func(3,3)
+print(sum)
+
+使用 lambda 表达式:
+sum = lambda x,y:x+y
+print(sum(3,3))
+      #简洁代码#
+      
+      
