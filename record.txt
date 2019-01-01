@@ -1,3 +1,22 @@
 strip: 删除开头或结尾的字符 str.strip('chars')
 split: 通过指定分隔符对字符串进行分片 str.split('chars')
 replace: 把字符串中的旧字符串替换成新字符串 str.replace('old','new')
+
+迭代器的应用: iter 和 next
+list1 = [1,2,3]    # 列表
+it = iter(list1)
+print(next(it))
+print(next(it))
+print(next(it))
+# print(next(it)) # except
+
+生成器的应用: yield
+def frange(start,stop,step):
+      x = start
+      while x < stop:
+         yield x
+         x += step
+for i in frange(10,20,0.5):
+      print(i)
+      
+      
