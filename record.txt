@@ -20,3 +20,4 @@ for i in frange(10,20,0.5):
       print(i)
       
       
+items 是字典函数(dict.items),以列表方式返回元组数组
