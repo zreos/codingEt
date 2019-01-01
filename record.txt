@@ -36,3 +36,4 @@ print(sum(3,3))
       #简洁代码#
       
       
+filter,map,reduce,zip 四个函数的用途在 func_test 中
