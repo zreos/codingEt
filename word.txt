@@ -5,3 +5,5 @@ arguments 参数
 decorator 装饰器
 sep 分隔符
 recursion 递归
+discrepancy 差异
+parameter 参数
