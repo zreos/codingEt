@@ -7,3 +7,7 @@ sep 分隔符
 recursion 递归
 discrepancy 差异
 parameter 参数
+inspection 检查
+detect 检测
+dynamic 动态
+annotation 注释
