@@ -11,3 +11,4 @@ inspection 检查
 detect 检测
 dynamic 动态
 annotation 注释
+dimensional 尺寸的
