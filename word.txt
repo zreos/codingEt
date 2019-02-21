@@ -13,3 +13,7 @@ dynamic 动态
 annotation 注释
 dimensional 尺寸的
 format 格式
+criterion 标准
+label 标签
+metrics 指标
+squared 平方
