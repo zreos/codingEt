@@ -17,3 +17,4 @@ criterion 标准
 label 标签
 metrics 指标
 squared 平方
+forest 森林
