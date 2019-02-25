@@ -20,3 +20,4 @@ squared 平方
 forest 森林
 extration 提取
 inverse 逆向
+vector 向量
