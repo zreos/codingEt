@@ -19,3 +19,4 @@ metrics 指标
 squared 平方
 forest 森林
 extration 提取
+inverse 逆向
