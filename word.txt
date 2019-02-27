@@ -23,3 +23,4 @@ inverse 逆向
 vector 向量
 indent 缩进
 match 匹配
+permission 允许
