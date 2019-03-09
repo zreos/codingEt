@@ -26,4 +26,5 @@ match 匹配
 permission 允许
 repository 仓库
 fork 叉子
-Gaussian 高斯分布
+高斯高斯分布
+browser 浏览器
