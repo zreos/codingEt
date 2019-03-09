@@ -26,4 +26,4 @@ match 匹配
 permission 允许
 repository 仓库
 fork 叉子
-plot 示意图
+Gaussian 高斯分布
